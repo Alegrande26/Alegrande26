@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alegrande26
 - 👀 I’m interested in Gaming, Coding, Chess, Soccer.
-- 🌱 I’m currently learning Computer engeneering st polytechnic of Turin
+- 🌱 I’m currently learning Electronic engeneering st polytechnic of Turin
 - 💞️ I’m looking to collaborate on C# projects a while also learning how to code in C# ;)
 - 📫 How to reach me Discord aleilgrande_26#7845
 
